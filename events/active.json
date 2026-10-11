@@ -1,0 +1,59 @@
+{
+  "slug": "riviera-events-and-marketing-kollam",
+  "name": "Riviera Events & Marketing",
+  "shortName": "Riviera Events & Marketing",
+  "descriptor": "Event Management",
+  "address": "Kottiyam - Kundara Rd, Thrikkovilvattom, Thazhuthala, Keralam 691576",
+  "area": "Thazhuthala",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691576",
+  "geo": {
+    "lat": 8.889088899999999,
+    "lng": 76.6776112
+  },
+  "mapsLink": "https://maps.google.com/?cid=408454533169707911",
+  "phone": "+91 80896 47415",
+  "whatsapp": "918089647415",
+  "hours": "Open 7 am – 9 pm · all days",
+  "opens": "07:00",
+  "closes": "21:00",
+  "rating": 4.9,
+  "reviewCount": 74,
+  "reviews": [
+    {
+      "name": "Nasarulla Naaz",
+      "rating": 5,
+      "quote": "The best ever service and responsive"
+    },
+    {
+      "name": "Shamnar Shamsudeen",
+      "rating": 5,
+      "quote": "“I have never seen a chef, who can connect with guests and deliver a knockout menu and do it all. You really go above and beyond, real class act. Thanks so much, RIVIERA.“"
+    },
+    {
+      "name": "Sarath Kumar",
+      "rating": 5,
+      "quote": "Excellent they are beyond my expectation.They got very varieties at an affordable rate will be good for all class"
+    },
+    {
+      "name": "sujith b",
+      "rating": 5,
+      "quote": "Everything was wonderful - the foods, the chefs, the services.. ! Affordable rates and amazing team work. I fully satisfied .. Thanks and best wishes Riviera Events & Caterers....."
+    },
+    {
+      "name": "Pramod Perayam",
+      "rating": 4,
+      "quote": "Professional service.... Friendly staff.. Good choice for all happiest occasions."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://riviera-events-and-marketing-kollam.vercel.app"
+}
